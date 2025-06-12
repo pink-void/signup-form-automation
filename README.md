@@ -14,7 +14,7 @@ README.md
 Description: Registration form accepts an invalid email domain;
 
 Steps to reproduce:
-1. Go to the registration page: https://auth-home-task.vercel.app/;
+1. Go to the registration page: https://auth-home-task.vercel.app/register;
 2. Fill and submit the signup form with the following data:
 - Username: `Qwerty`;
 - Email: `user@domain.l`;
