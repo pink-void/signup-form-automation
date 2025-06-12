@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# signup-form-automation
-Homework - automate registration test
+# signup-form
+Homework
 =======
 README.md
 
@@ -26,6 +25,7 @@ Expected results: Email field is validated and an error message displayed: `"Ent
 Actual results: No error message for E-mail value displayed and form submitted.
 
 # Task#3: Automation script
+The automated registration test is located in the [`tests/registration.test.js`](tests/registration.test.js) file.
 
 # Task#4: Potential UI/UX improvements
 1. Proper error messages for field validations informing user of what needs to be filled out (e.g. empty e-mail on submit returns message of “Invalid e-mail format” not “Please enter your E-mail address”);
@@ -49,4 +49,3 @@ Actual results: No error message for E-mail value displayed and form submitted.
 #Additional comments:
 → Password sent in plaintext;
 → Error message classes could be renamed better implement tests better, as well as element attributes for easier automation.
->>>>>>> a1194ef (Initial commit)
